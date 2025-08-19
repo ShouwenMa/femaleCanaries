@@ -2,7 +2,7 @@
  
 ## Project:
 
-data and analyses
+Data and analyses
 
 ## Description: 
 
