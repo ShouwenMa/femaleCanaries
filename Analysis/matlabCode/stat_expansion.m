@@ -1,7 +1,7 @@
 close all
 clear all
 
-load("pairwiseDistance_model_1PrecentStepRate.mat")
+load("pairwiseDistance_model_5PrecentStepRate.mat")
 
 levIS = unique(pd_DPI(:,1)); % initial size (um)
 nlevIS = length(levIS);
