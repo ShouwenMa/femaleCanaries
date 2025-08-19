@@ -14,10 +14,10 @@ nexpRatio = length(expRatio);
 gRate = nthroot(expRatio,3);
 
 ngRate = length(gRate);
-pd_DPI = []; % intial angle affects the disatance between cells from different days
+pd_DPI = []; 
 
 statpd = []; % variable names: initial size (um); expansion rate; expansion angles: 1. center,2. edge,3. corner; mean displacement; std displacement
-pd_cell = []; % intial angle does not affect the disatances among cells from different days
+pd_cell = []; 
 
 i = 1;j=1;k=1;
 for i = 1:nfz % original size
